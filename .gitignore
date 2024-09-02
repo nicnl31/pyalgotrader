@@ -1,0 +1,35 @@
+# Ticker data folders
+data/
+env/
+user_data/data/
+user_data/logs
+user_data/trade_logs
+user_data/backtest_results
+user_data/hyperopt_results
+
+# Mac stuff
+.DS_Store
+
+# PyCharm stuff
+.idea
+
+# other files
+*.csv
+*.pyc
+*.json
+*.txt
+*.lock
+*.pkl
+*.fthypt
+*.zip
+*.feather
+*.html
+__pycache__
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702270483.Nicholass-MBP-3.38572.0
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702270574.Nicholass-MBP-3.38594.0
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702270867.Nicholass-MBP-3.38632.0
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702271157.Nicholass-MBP-3.38689.0
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702271594.Nicholass-MBP-3.38727.0
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702271597.Nicholass-MBP-3.38727.2
+frameworks/freqtrade/user_data/models/example/sub-train-ETH_1696723200/tensorboard/events.out.tfevents.1702271596.Nicholass-MBP-3.38727.1
+frameworks/freqtrade/user_data/models/unique-id/sub-train-ETH_1696118400/tensorboard/events.out.tfevents.1702269726.Nicholass-MBP-3.38503.0
